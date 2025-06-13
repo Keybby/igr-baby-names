@@ -1,0 +1,13 @@
+[project]
+name = "igr-baby-names"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "altair>=5.5.0",
+    "geopolars>=0.1.0a4",
+    "jupyter>=1.1.1",
+    "lab>=8.4",
+    "polars>=1.30.0",
+]
